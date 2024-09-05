@@ -1,7 +1,3 @@
-Here's an edited version of your README file for GitHub:
-
----
-
 # 💫 About Me:
 Hello, I'm Amit! 👋  
 ## 🚀 About Me  
