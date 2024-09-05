@@ -8,9 +8,8 @@ I’m a passionate **Data Analyst** and **Backend Developer** with experience in
 - Projects where I can contribute to **data analysis**, **Python scripting**, and **Django backend development**.  
 
 ## 💡 I'm Looking for Help With  
-- Enhancing my **Power BI** and **Tableau** skills.  
-- Collaborating on backend development for web applications using **Django**.  
-- Guidance on applying to **Stanford** and navigating the process for **studying abroad**.  
+- Enhancing my Analyzing and Development Skills
+- Collaborating on backend development for web applications using **Django**.   
 
 ## 🌱 I'm Currently Learning  
 - **Advanced data science techniques** (Machine Learning, Predictive Modeling)  
