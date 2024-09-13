@@ -22,7 +22,7 @@ I’m a passionate **Data Analyst** and **Backend Developer** with experience in
 - **Python**: I use it daily for data science, backend development, and automation projects.  
 
 ## 🎉 Fun Fact  
-I’m a firm believer in constant learning and love tackling complex challenges, especially when they involve **data**!  
+I firmly believe in constant learning and love tackling complex challenges, especially when they involve **data**!  
 
 ---
 
