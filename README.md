@@ -1,24 +1,41 @@
 # 💫 About Me:
-Hello, I'm Amit! 👋  
+
+Hello, I'm **Amit!** 👋  
+
 ## 🚀 About Me  
-I’m a passionate **Data Analyst** and **Backend Developer** with experience in **Python, SQL, Power BI**, and **data science projects**. I'm driven by the desire to build solutions that tackle real-world challenges and aim to expand my knowledge in **data analytics** and **backend development**.  
+AI Researcher & Developer at **SportsForAll** 🏆, specializing in **Python, SQL, and R**. Passionate about building AI-powered solutions for real-world challenges. I am constantly exploring **data science, backend development**, and **automation** to enhance my skill set.  
 
 ## 💼 I'm Looking to Collaborate On  
-- Open-source projects related to **data science**, **backend development**, and **automation**.  
-- Projects where I can contribute to **data analysis**, **Python scripting**, and **Django backend development**.  
+- **Open-source projects** related to **AI, data science, backend development**, and **automation**.  
+- Projects where I can contribute to **data analysis, Python scripting, and Django backend development**.  
 
 ## 🌱 I'm Currently Learning  
 - **Advanced data science techniques** (Machine Learning, Predictive Modeling)  
+- **Real-time video data scoring** and **game analytics**  
+- Improving **problem-solving skills** in **Data Structures & Algorithms**  
 
-- Improving my **problem-solving skills** in **Data Structures & Algorithms**  
+## 🛠 Tech Stack  
+- **Programming:** Python, SQL, R  
+- **Web Frameworks:** Django, Flask  
+- **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow, OpenCV  
+- **Cloud Services:** AWS, GCP  
+- **Databases:** PostgreSQL, MySQL  
+- **Other Tools:** Git, Docker, FastAPI  
+
+## 💼 Services I Provide  
+With my experience in AI and backend development, I offer the following services:
+- **AI Model Development** – Building and fine-tuning models for image processing, sentiment analysis, and predictive modeling.
+- **Data Analysis & Visualization** – Extracting insights using data science techniques and creating meaningful visualizations.
+- **Backend Development** – Developing APIs and backend solutions using Django & Flask.
+- **Cloud Integration** – Deploying AI solutions on AWS and GCP.
+- **Real-Time Video Analysis** – Implementing video processing models for object detection, event recognition, and player tracking.
+- **Automation Solutions** – Writing scripts to automate workflows and enhance efficiency.
 
 
-## 🎉 Fun Fact  
-I firmly believe in constant learning and love tackling complex challenges, especially when they involve **data**!  
+---  
+**📫 Let's Connect!**  
+[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
 
----
-
----
 
 ## 🔝 Top Contributed Repos  
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=amitk249&limit=5&theme=radical&combine_all_yearly_contributions=true)
